@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h2>cantidad de medicamento veterinario</h2>
+<ol>
+<li>meloxican (1300 dosis)</li>
+<li>ivervitina (1080 dosis)</li>
+<li>ampicilina (295 docis)</li>
+</ol>
+<p>Sumando estos tres medicamentos tenemos una cantidad de dosificación de <strong>2675 millones</strong></p>
+</body>
+</html>

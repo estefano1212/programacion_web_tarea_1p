@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>continente</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Seleccione un pais:
+  <select name="paises">
+    <optgroup label="America">
+      <option value="1">Canada</option>
+      <option value="2">Estados unidos</option>
+      <option value="3">Mexico</option>
+      <option value="4">Belice</option>
+      <option value="5">Costa rica</option>
+      <option value="6">Ecuador</option>
+    </optgroup>
+    <optgroup label="Europa">
+      <option value="7">España</option>
+      <option value="8">Francia</option>
+      <option value="9">Italia</option>
+      <option value="10">Suiza</option>
+      <option value="11">Alemania</option>
+      <option value="13">Holanda</option>
+      <option value="14">Hirlanda</option>
+      <option value="15">Rucia</option>
+    </optgroup>
+  </select>
+  <br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>

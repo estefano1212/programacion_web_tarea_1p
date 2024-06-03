@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>sueldo empleado</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<table border="1">
+  <tr>
+    <th>Nombre del Empleado</th><th>Sueldo Bruto</th>
+  </tr>
+  <tr>
+    <td>Pablo Escamilla</td><td>1900</td>
+  </tr>
+  <tr>
+    <td>Anais Intriago</td><td>1500</td>
+  </tr>
+  <tr>
+    <td>Luis Pérez</td><td>1873</td>
+  </tr>
+  <tr>
+    <td>Franco Escamilla</td><td>10.400</td>
+  </tr>
+</table>
+</body>
+</html>

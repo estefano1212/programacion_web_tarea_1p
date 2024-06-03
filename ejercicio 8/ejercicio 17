@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SALARIO DE LOS EMPLEADOS</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<table border="1">
+  <tr>
+    <td>Elizabeth Bordes</td><td>1890</td>
+  </tr>
+  <tr>
+    <td>Estefano Leon</td><td>3000</td>
+  </tr>
+  <tr>
+    <td>Patricia Martínez</td><td>1800</td>
+  </tr>
+  <tr>
+    <td>Carlos Otton</td><td>2500</td>
+  </tr>
+</table>
+</body>
+</html>

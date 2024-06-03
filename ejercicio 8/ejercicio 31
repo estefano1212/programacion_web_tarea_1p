@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>datos</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Nombre de usuario:
+  <input type="text" name="nombre" size="30">
+  <br>
+  Clave:
+  <input type="password" name="clave" size="25">
+  <br>
+  <button type="submit">Ingreso al<br>sitio</button>
+</form>
+</body>
+</html>

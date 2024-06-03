@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>seleccion de pelicula</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Ingrese su mail:
+  <input type="text" name="mail" size="50"><br>
+  Ingrese su clave:
+  <input type="password" name="clave" size="10"><br>
+  <em>Seleccione las películas a pedir:</em>
+  <br>
+  <input type="checkbox" name="pelicula1">Godzilla: Minus One<br>
+  <input type="checkbox" name="pelicula2">Tarot de la muerte<br>
+  <input type="checkbox" name="pelicula3">¡Que viaje con papa!<br>
+  <input type="checkbox" name="pelicula4">Contra Todos<br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>

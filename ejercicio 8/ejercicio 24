@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>contraseña usuario</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Ingrese su mail: 
+  <input type="text" name="nombre" size="50">
+  <br>
+  Ingrese su clave: 
+  <input type="password" name="paswuar1" size="12">
+  <br>
+  Repita el ingreso de su clave: 
+  <input type="password" name="paswuar2" size="12">
+  <br>
+  <input type="submit" value="enviar">
+  <input type="reset" value="borrar">
+</form>
+</body>
+</html>

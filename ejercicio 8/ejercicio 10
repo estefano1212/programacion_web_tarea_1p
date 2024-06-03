@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>servicio de anuncios</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>Pizzas lucy online</h1>
+
+<h2>Promoción 1</h1>
+<p>1  Una Muzzarella familiar .<br>
+1 bebida de 2 litros<br>
+Costo: $18<br>
+<a href="alconrojo18@gmail.com?subject=Promoción 1&body=Ingrese aquí su dirección y teléfono:">Solicitar.</a>
+</p>
+
+<h2>Promoción 2</h1>
+<p>2 De Muzzarellas meediana.<br>
+Costo: $14<br>
+<a href="alconrojo18@gmail.com?subject=Promoción 2&body=Ingrese aquí su dirección y teléfono:">Solicitar.</a>
+</p>
+
+<h2>Promoción 3</h1>
+<p>3 De Muzzarella pequeña.<br>
+Costo: $12<br>
+<a href="alconrojo18@gmail.com?subject=Promoción 3&body=Ingrese aquí su dirección y teléfono:">Solicitar.</a>
+</p>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>preguntas</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  <h1>Cual es el Nombre Cientifico de la Especie Conocida como Lobo?</h1>
+  Felis silvestris catus.<input type="button" name="boton1" value="Correcta?">
+  <br>
+  Canis lupus.<input type="button" name="boton2" value="Correcta?">
+  <br>
+  canis familiaris.<input type="button" name="boton3" value="Correcta?">
+</form>
+</body>
+</html>

@@ -1,0 +1,16 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>noticias internacionales</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h2>Periódicos de ecuador.</h2>
+<ul>
+<li><a href="https://www.eluniverso.com/">El Universo</a></li>
+<li><a href="https://www.elcomercio.com/">El Comercio</a></li>
+<li><a href="https://www.lahora.com.ec/">La Hora</a></li>
+<li><a href="https://www.eltelegrafo.com.ec/">El Telegrafo</a></li>
+</ul>
+</body>
+</html>

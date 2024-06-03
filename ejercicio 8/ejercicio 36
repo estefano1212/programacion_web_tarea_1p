@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>datos</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  <input type="text" name="sector1" size="5" tabindex="1">
+  <input type="text" name="sector2" size="5" tabindex="2">
+  <input type="text" name="sector3" size="5" tabindex="3">
+  <input type="text" name="sector4" size="5" tabindex="4">
+  <br>
+  <input type="text" name="sector5" size="5" tabindex="12">
+  <input type="text" name="sector6" size="5" tabindex="13">
+  <input type="text" name="sector7" size="5" tabindex="14">
+  <input type="text" name="sector8" size="5" tabindex="5">
+  <br>
+  <input type="text" name="sector9" size="5" tabindex="11">
+  <input type="text" name="sector10" size="5" tabindex="16">
+  <input type="text" name="sector11" size="5" tabindex="15">
+  <input type="text" name="sector12" size="5" tabindex="6">
+  <br>
+  <input type="text" name="sector13" size="5" tabindex="10">
+  <input type="text" name="sector14" size="5" tabindex="9">
+  <input type="text" name="sector15" size="5" tabindex="8">
+  <input type="text" name="sector16" size="5" tabindex="7">
+  <br>
+  <input type="submit" value="enviar" tabindex="17">
+</form>
+</body>
+</html>

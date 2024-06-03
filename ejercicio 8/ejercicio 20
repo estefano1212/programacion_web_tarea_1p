@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>diarios</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<table border="1">
+  <tr>
+    <td rowspan="3">Ecuador</td><td>El Universo</td><td><a href="https://www.eluniverso.com/">https://www.eluniverso.com/</a></td>
+  </tr>
+  <tr>
+    <td>El Comercio</td><td><a href="https://www.elcomercio.com/">https://www.elcomercio.com/</a></td>
+  </tr>
+  <tr>
+    <td>Diario La Hora</td><td><a href="https://www.lahora.com.ec/">https://www.lahora.com.ec/</a></td>
+  </tr>
+  <tr>
+    <td rowspan="3">España</td><td>El País </td><td><a href="https://elpais.com/america/">https://elpais.com/america/</a></td>
+  </tr>
+  <tr>
+    <td>La Razón</td><td><a href="https://www.larazon.es/">https://www.larazon.es/</a></td>
+  </tr>
+  <tr>
+    <td>El Mundo</td><td><a href="https://www.elmundo.es/">https://www.elmundo.es/</a></td>
+  </tr>
+    <td rowspan="2">U.S.A</td><td>El Periódico</td><td><a href="https://www.elperiodico.com/es/lugares/estados-unidos-6582">https://www.elperiodico.com/es/lugares/estados-unidos-6582</a></td>
+  </tr>
+  <tr>
+    <td>El Diariony</td><td><a href="https://eldiariony.com/">https://eldiariony.com/</a></td>
+  </tr>
+</table>
+</body>
+</html>

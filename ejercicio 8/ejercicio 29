@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>seleccion de correo</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Seleccione uno o varios mail (Presione Ctrl para seleccionar varios mail)<br>
+  <select name="mail[]" size="4" multiple>
+    <option value="alconrojo185@gmail.com">alconrojo185@gmail.com</option>
+    <option value="tokyogohul68@gmail.com">tokyogoul68@gmail.com</option>
+    <option value="estefanoleon48@gmail.com">estefanoleon48@gmail.com</option>
+    <option value="lucyferpaty@hotmail.com">lucyferpaty@hotmail.com</option>
+    <option value="estefanolucyfer@hotmail.com">estefanolucyfer@hotmail.com</option>
+  </select>
+  <br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>

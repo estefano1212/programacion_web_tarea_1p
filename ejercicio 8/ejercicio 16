@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>paginas de datos de sistemas html</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<ul>
+  <li>PHP
+    <ol>
+      <li><a href="https://html.com/">html</a></li>
+      <li><a href="https://www.mysql.com/">mysql</a></li>
+      <li><a href="https://www.java.com/es/">java</a></li>
+      <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">developer</a></li>
+    </ol>
+  </li>
+  <li>JavaScript
+    <ol>
+      <li><a href="https://blog.hubspot.es/website/que-es-javascript">blog.hubpot</a></li>
+      <li><a href="https://www.w3schools.com/js/">w3schools</a></li>
+    </ol>
+  </li>
+  <li>C++
+    <ol>
+      <li><a href="https://cplusplus.com/">cplusplus</a></li>
+      <li><a href="https://cpp.sh/">cpp</a></li>
+    </ol>
+  </li>
+</ul>
+</body>
+</html>

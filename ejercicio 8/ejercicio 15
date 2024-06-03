@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>caracteristicas de un sistema</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<dl>
+  <dt>Codigo</dt>
+  <dd>Son las instrucciones que escribe un programador en un lenguaje de programación.
+ El código es la etapa donde un programador puede leer y modificar un programa de computadora.</dd>
+  <dt>framewort</dt>
+  <dd>Un framework proporciona una manera estándar de crear aplicaciones. Consiste de muchas soluciones predefinidas para funcionalidades comunes que son utilizadas para ayudar a crear aplicaciones de software de manera más rápida y estandarizada.</dd>
+  <dt>codigo ejecutable</dt>
+  <dd>Corresponde a unidades de programas, donde el ordenador puede realizar las instrucciones compiladas que tendrán enlazadas una o varias bibliotecas. El beneficio de tener el código ejecutable es que se puede saber que la compilación fue realizada correctamente y el programa puede funcionar correctamente, porque está libre de errores de variables, signos y demás.</dd>
+<dt>Codigo fuente</dt>
+  <dd>Conjunto de líneas de textos, que son las directrices que debe seguir el ordenador para realizar dicho programa. Por lo tanto, es en el código fuente donde se encuentra escrito el funcionamiento del programa o aplicación.</dd>
+
+</dl>
+</body>
+</html>

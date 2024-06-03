@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+  <title>sistemas operativos</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<form action="registrardatos.php" method="post">
+  Ingrese su nombre:
+  <input type="text" name="nombre" size="30"><br>
+  Que sistema operativo utiliza más?
+  <br>
+  <input type="radio" name="so" value="1">Windows<br>
+  <input type="radio" name="so" value="2">Linux<br>
+<input type="radio" name="so" value="2">MaCos<br>
+  <input type="submit" value="Enviar">
+</form>
+</body>
+</html>

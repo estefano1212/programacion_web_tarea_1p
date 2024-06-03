@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>pagos ultimos</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h2>Año 2018</h2>
+<table border="1">
+  <tr>
+    <th rowspan="4">Recursos</th><th colspan="4">Facturación de los últimos tres meses</th>
+  </tr>
+  <tr>
+  <td>moto</td><td>3000</td><td>4000</td><td>6000</td>
+  </tr>
+  <tr>
+    <td>cadena</td><td>3000</td><td>2000</td><td>5000</td>
+  </tr>
+  <tr>
+    <td>accesorio</td><td>3000</td><td>7000</td><td>8000</td>
+  </tr>
+</table>
+<!--
+<h2>Año 2016</h2>
+<table border="1">
+  <tr>
+    <th rowspan="4">Recursos</th><th colspan="4">Facturación de los últimos tres meses</th>
+  </tr>
+  <tr>
+    <td>moto</td><td>3000</td><td>4000</td><td>6000</td>
+  </tr>
+  <tr>
+    <td>cadena</td><td>3000</td><td>2000</td><td>5000</td>
+  </tr>
+  <tr>
+    <td>accesorio</td><td>3000</td><td>7000</td><td>8000</td>
+  </tr>
+</table>
+-->
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>veterinaria</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<h1>servicios veterinarios.</h1>
+<h2>servicios veterinarios.</h2>
+<p>
+<a href="https://animalopolis.vet/?gad_source=1" target="_blank">animalopolis.vet</a>
+<br>
+<a href="https://happypetsco.com/" target="_blank">happypetsco</a>
+<br>
+<a href="https://vetcarecenterec.com/?gad_source=1"_blank">vetcarecenterec</a>
+<br>
+</p>
+
+<h2>servicios veterinarios recomendable.</h2>
+<p><a href="https://animalopolis.vet/?gad_source=1">animalopolis.vet</a>
+<br>
+<a href="https://happypetsco.com/">happypetsco</a>
+<br>
+<a href="https://vetcarecenterec.com/?gad_source=1">vetcarecenterec</a>
+<br>
+</p>
+</body>
+</html>
+

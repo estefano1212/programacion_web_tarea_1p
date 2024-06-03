@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Título de la página</title>
+  <meta charset="UTF-8">
+</head>
+<body>
+<a href="https://github.com/dashboard">INICIO DE GITHUB</a>
+<br>
+<a href="https://github.com/new">Crear un nuevo repositorio</a>
+</body>
+</html>

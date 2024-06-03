@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+    <head>
+        <title>ejercicio 3</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>chelsea reconoce a moises caicedo por el mejor gol de la temporada.</h1>
+        <h2>noticia politicas.</h2>
+        <h3>daniel noboa y nayib bukele se reunen, estas son las claves de su encuentro.</h3>
+        <p>
+            los precidentes de ecuador y el salvador dialogaron sobre varios
+            temas para mejorar las relaciones entre los dos paisdes
+            en esta tarde del viernes 31 de mayo de 2024
+        </p>
+        <h3>agencia efe.</h3>
+        <p>
+            el precidente de ecuador, daniel novoa, y su homologo 
+            de el salvador, nayib bukele, conversaronvarios temas
+            esta tarde del viernes 31 de mayo de 2024
+        </p>
+        <h2>noticia deportiva.</h2>
+        <h3>carlos augusto rojas.</h3>
+        <p>
+            los reconocimientos no cesanpara el crack ecuatoriano moises caicedo, quien
+            se encuentra en el pais en un periodo de vacaciones.
+            esta vez, una buena noticia surgio desde las filas del chelsea fc.
+        </p>
+        <h3>moises caicedo en el chelsa.</h3>
+        <p>
+            moises caicedo converso con el comercio y otros medios el viernes 31 de mayo del 2024
+            hablo sobre distintos temas, entre estos su temporada en el chelsea fc.
+            su cierre de temporada fue bueno, convirtiendose en figura clave en las victorias de su equipo.
+        </p>
+    </body>
+</html>
